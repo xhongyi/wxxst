@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?><!-- XML的版本以及编码方式 -->
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-	<item android:state_pressed = "false"
-	     android:drawable = "@drawable/test7" />
-	<item android:state_pressed = "true"
-	     android:drawable = "@drawable/test7" />     
-</selector>
