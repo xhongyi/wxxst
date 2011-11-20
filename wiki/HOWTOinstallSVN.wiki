@@ -18,4 +18,8 @@ To install ssh, please use this command:
 
 sudo apt-get install openssh-server
 
+A tutorial of how to use SVN can be find here:
+
+http://maverick.inria.fr/~Xavier.Decoret/resources/svn/index.html
+
 The tutorial is pretty much straight forward. If you encounter any problem. I strongly recommend you google and find the answer by yourself. None of us is professional on configuring the platform and learn how to use google itself is an extremely useful skill.
