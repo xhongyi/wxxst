@@ -1,0 +1,245 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 8.0' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       157,          7]
+NotebookDataLength[     11717,        235]
+NotebookOptionsPosition[     10888,        204]
+NotebookOutlinePosition[     11299,        222]
+CellTagsIndexPosition[     11256,        219]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["Design Expo Absence Request", "Title",
+ CellChangeTimes->{{3.521474187846387*^9, 3.521474270905285*^9}}],
+
+Cell["\<\
+Hi Prof. Peisen Huang, Prof. Vincent Chang, Prof. Chengbin Ma and Prof. Kai \
+Xu. I am a senior student from 2+2 program and I have encountered a dilemma \
+thus I have to regretfully write this to ask for your help.\
+\>", "Text",
+ CellChangeTimes->{{3.521474282210823*^9, 3.521474422109664*^9}, {
+   3.5214744712990923`*^9, 3.5214744849454317`*^9}, {3.521475258680378*^9, 
+   3.521475259496147*^9}, 3.521479330502713*^9}],
+
+Cell["\<\
+First of all, thank all of you for providing us such a free and humanized \
+studying Environment and thank you for your precious patience and kindliness. \
+I have learned a great lot not only in academia, but also about how to behave \
+honorable and how to succeed in the real world.\
+\>", "Text",
+ CellChangeTimes->{{3.5214744876083593`*^9, 3.521474539020859*^9}, {
+  3.5214746058411407`*^9, 3.5214746977376947`*^9}, {3.521475266784039*^9, 
+  3.521475295396882*^9}, {3.521479339601953*^9, 3.521479367756198*^9}}],
+
+Cell["\<\
+I understand that the course timeline is carefully designed to satisfy most \
+student\[CloseCurlyQuote]s requirements and meet their schedule. I have heard \
+of the faculties have put huge effort to separate the graduation for domestic \
+and 2+2 students, in order to let the domestic students full-fill their \
+intern requirements. I also believe the faculties much have given huge effort \
+in order to adjust the course timeline to meet those 2+2 students\
+\[CloseCurlyQuote] personal needs like going home or traveling. By here I \
+thank all of the faculties who have tried to provide convenience to students \
+and I believe the Joint Institute will become a better institute not only in \
+research and teaching, but also in humanization and careness of students\
+\[CloseCurlyQuote] personal development and their difficulties.\
+\>", "Text",
+ CellChangeTimes->{{3.521474703008566*^9, 3.521475153052218*^9}, {
+  3.521475208261807*^9, 3.5214752461524897`*^9}, {3.5214753042863827`*^9, 
+  3.521475307620637*^9}, {3.521475341282702*^9, 3.521475387838325*^9}, {
+  3.5214754268694887`*^9, 3.521475458209227*^9}, {3.521479369435542*^9, 
+  3.521479390775358*^9}}],
+
+Cell["\<\
+Although I understand the course schedule and I greatly respect the syllabus, \
+I still have to regretfully ask you for the approving of an absence on Design \
+Expo. As one of the 2+2 student, among others, I applied to the grad school \
+in U.S and luckily I was admitted by the School of Computer Science of \
+Carnegie Mellon University for their PhD program. As an International \
+student, I will have to attend the Orientation on August 16th.\
+\>", "Text",
+ CellChangeTimes->{{3.5214754638409986`*^9, 3.521475812968261*^9}, {
+  3.5214794209010983`*^9, 3.521479434084147*^9}}],
+
+Cell["\<\
+As I have lived in U.S for 2 years, I have most of my personal stuffs left in \
+Ann Arbor, Mostly books (I have like 40 text books and manuals there, none of \
+them are thin, mostly are Technical Manuals, like O\[CloseCurlyQuote]Reilly\
+\[CloseCurlyQuote]s Linux Kernel and Shell script programming etc.) , and \
+clothes. Those are all packed up in boxes and they are too heavy to really \
+send via postal service. Thus I rent an U-HAUL and hired a driver to drive me \
+to Pittsburgh.\
+\>", "Text",
+ CellChangeTimes->{{3.521475819727475*^9, 3.521476143161345*^9}}],
+
+Cell["\<\
+More, as my first paper is finished during this summer and submitted to ACM \
+ASPLOS 2012 conference, I think it is necessary to meet him in person and \
+thank him for his guidance. I also planned to meet with my PhD mentor for \
+discussing future development for our research (as the paper will take \
+several review and revise cycle before publish, I think we need to talk about \
+ modifications to the paper for next review). Most importantly, I will have \
+to wrap up and take everything with me and take the U-HAUL to Pittsburgh.\
+\>", "Text",
+ CellChangeTimes->{{3.521476146352764*^9, 3.521476182363398*^9}, {
+  3.521476256682349*^9, 3.521476257456819*^9}, {3.521476305334894*^9, 
+  3.521476539684305*^9}, {3.521476618326984*^9, 3.5214766663805227`*^9}, {
+  3.521479440771716*^9, 3.521479458940545*^9}}],
+
+Cell["\<\
+Thus I booked my flight ticket on August 11th noon, as I planned to arrive at \
+Detroit Michigan at 12th afternoon and probably arrive at Ann Arbor in the \
+afternoon. I will take 13th to meet with my adviser in UM and also my PhD \
+mentor and pack up and then drive to Pittsburgh on 14th, which is Sunday. \
+Then I have to sleep in a Motel as the Key office won\[CloseCurlyQuote]t open \
+on Sunday and I have to wait until Monday to get my keys and move in. And the \
+orientation starts on 16th.\
+\>", "Text",
+ CellChangeTimes->{{3.521476670139079*^9, 3.5214768683329372`*^9}, {
+  3.521476912959008*^9, 3.521476958325816*^9}, {3.521479462820113*^9, 
+  3.521479480506896*^9}}],
+
+Cell["\<\
+I apologize for this conflicting agenda. However, I really didn\
+\[CloseCurlyQuote]t know the design expo time when I booked the ticket. First \
+of all, as earlier booking could provide cheaper flight ticket (I bought it \
+for around $900 and now it\[CloseCurlyQuote]s more than $2300), I booked it \
+in May when I don\[CloseCurlyQuote]t really know the design expo time and \
+secondly, I really tried to defer this flight as late as possible. Flight in \
+advance for 4 days before mandatory orientation and I still have to move all \
+my heavy stuff is the shortest day I can think of. I am so depressed that I \
+still can\[CloseCurlyQuote]t avoid the conflict.\
+\>", "Text",
+ CellChangeTimes->{{3.5214769694609118`*^9, 3.521477325905097*^9}, {
+  3.521479483328815*^9, 3.52147948814648*^9}}],
+
+Cell["\<\
+I understand the Orientation itself is not a big of deal. I have lived in U.S \
+for 2 years and as Prof. Peisen Huang said, students can arrive later. \
+However, as you may also know, the immigration office require timely \
+reporting to the corresponding University otherwise the I-20 will be \
+invalidated. This is a quote from the department assistant: \
+\[OpenCurlyDoubleQuote]Note that the begin date for International Students is \
+August 16.  If you plan to arrive more than 30 days earlier, or even one day \
+later, than August 16 or you plan to begin the program in any semester other \
+than F11, please let me know immediately so I can accurately reflect the \
+correct date in processing your I-20 form.  This will save a lot of time, \
+since any corrections require LOTS of extra paperwork.  Be sure to check the \
+OIE website for all the other information you might need regarding your visa \
+application.\[CloseCurlyDoubleQuote] I found out the classes schedule way \
+later than I got my I-20 issued. Thus any late attending will result in \
+\[OpenCurlyDoubleQuote]LOTS of extra paperwork\[CloseCurlyDoubleQuote]... I \
+don\[CloseCurlyQuote]t want to be a troublesome person even before I arrive.\
+\>", "Text",
+ CellChangeTimes->{{3.521477350176278*^9, 3.521477552938361*^9}, {
+   3.521477828770155*^9, 3.521478002067626*^9}, 3.521479490972135*^9}],
+
+Cell["\<\
+Finally, I believe I have contribute a lot on this project. Personally, it is \
+very disappointing to be absent when I could finally see it accomplished, as \
+I am the person who form the team, bring out the idea and write the proposal \
+at the beginning (if Prof. Peisen and Prof. Vincent still remember, I spent a \
+whole day writing and revising the proposal alone :)   ). However, if I did \
+attend the Expo, I would have to change my flight (may account for $1400 more \
+cost); I would have to re-book the U-HAUL and inform the driver; I would have \
+no time to meet with my UM adviser and mentor talking about future work and I \
+would probably be late to the Orientation and ask the assistance for \
+\[OpenCurlyDoubleQuote]LOTS of extra paperwork\[CloseCurlyDoubleQuote] just \
+for my several days lateness.\
+\>", "Text",
+ CellChangeTimes->{{3.521478014570322*^9, 3.521478400574113*^9}, {
+  3.521479494968676*^9, 3.5214794967385607`*^9}}],
+
+Cell["\<\
+On the other hand, I understand the importance of Final Expo, this is the \
+place where we show our product to the Sponsor and user! However, though I \
+may not stand by my team, I still can record a video and play it on EXPO, \
+explaining what I have done and my own part. We have done this before in UM \
+(please google \[OpenCurlyQuote]SURE Hongyi Xin\[CloseCurlyQuote], that\
+\[CloseCurlyQuote]s my final presentation for UM\[CloseCurlyQuote]s summer \
+research, we present to a camera instead of real audience.) I think this \
+could be also manageable for my case. I personally don\[CloseCurlyQuote]t \
+think this could hurt to much as most of the information will still be \
+delivered and my fellow teammates can explain the questions. Even if this may \
+deduct some points from my course grade, I will understand an accept those \
+punishments, since I left for personal reasons. However, I really can\
+\[CloseCurlyQuote]t afford an extra $1400 money plus letting others do \
+\[OpenCurlyDoubleQuote]LOTS of extra work\[CloseCurlyDoubleQuote] just for \
+standing at the EXPO for my probably 1 minute speech, when I really could \
+record that minute in advance.\
+\>", "Text",
+ CellChangeTimes->{{3.5214784023315763`*^9, 3.521478930704924*^9}, {
+  3.5214795066865892`*^9, 3.5214795090890017`*^9}}],
+
+Cell["\<\
+Again, I am very sorry for such request. I know this could be a bad example \
+to other students so I won\[CloseCurlyQuote]t tell others. I also understand \
+this may add extra work to you and all of you are super busy. But still, I \
+believe you were once an international student and were once excited and \
+nervous about entering U.S. I know this request may seems unreasonable and \
+late. But please believe me, nobody likes doing this and I am really really \
+out of option except writing this request.\
+\>", "Text",
+ CellChangeTimes->{{3.521478939845454*^9, 3.5214791147376213`*^9}, {
+  3.5214791627920103`*^9, 3.5214792643285513`*^9}, {3.5214795158608007`*^9, 
+  3.521479543236866*^9}}],
+
+Cell["\<\
+Again, thank you for your patience and kindness! I wish the JI will one day \
+be one of the most famous institute in the world!\
+\>", "Text",
+ CellChangeTimes->{{3.521479267103746*^9, 3.521479302444831*^9}}]
+}, Open  ]]
+},
+WindowSize->{740, 752},
+WindowMargins->{{324, Automatic}, {48, Automatic}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
+FrontEndVersion->"8.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (November 6, \
+2010)",
+StyleDefinitions->"Default.nb"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[579, 22, 110, 1, 76, "Title"],
+Cell[692, 25, 431, 7, 41, "Text"],
+Cell[1126, 34, 523, 8, 56, "Text"],
+Cell[1652, 44, 1168, 17, 101, "Text"],
+Cell[2823, 63, 588, 9, 71, "Text"],
+Cell[3414, 74, 574, 9, 71, "Text"],
+Cell[3991, 85, 819, 12, 86, "Text"],
+Cell[4813, 99, 686, 11, 71, "Text"],
+Cell[5502, 112, 801, 12, 86, "Text"],
+Cell[6306, 126, 1370, 19, 146, "Text"],
+Cell[7679, 147, 955, 14, 101, "Text"],
+Cell[8637, 163, 1310, 19, 131, "Text"],
+Cell[9950, 184, 702, 11, 71, "Text"],
+Cell[10655, 197, 217, 4, 26, "Text"]
+}, Open  ]]
+}
+]
+*)
+
+(* End of internal cache information *)
+

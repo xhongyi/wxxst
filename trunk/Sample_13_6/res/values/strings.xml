@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Prototype</string>
+    <string name="app_name">Prototype</string>
+    <string name="wordInfo"></string>
+    <string name="button1"></string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="btn">Start</string>						<!-- 声明名为btn的字符串资源 -->
+    <string name="btn2">Search</string>
+    <string name="btn3">Setting</string>
+    <string name="btn4">About</string>
+    <string name="btn5">Exit</string>				
+    <string name="title">普通对话框</string>						<!-- 声明名为title的字符串资源 -->
+    <string name="ok">好吧。。</string>						<!-- 声明名为ok的字符串资源 -->
+    <string name="ok2">NB</string>	
+    <string name = "about_msg">开发者：教主，飞鼠，鱿鱼，蒙帝，大伯</string>
+    <string name="dialog_msg">还没开发好呢！！！有木有！！！</string>	<!-- 声明名为dialog_msg的字符串资源 -->
+    <string name="et">请输入网址</string>
+    <string name="btnweb">Return</string>
+    <string name="text"></string>
+</resources>
